@@ -1,0 +1,4 @@
+python-youtube     ### https://github.com/sns-sdks/python-youtube
+pytube             ### https://github.com/pytube/pytube
+requests
+rstr
