@@ -1,4 +1,4 @@
-python-youtube     ### https://github.com/sns-sdks/python-youtube
-pytube             ### https://github.com/pytube/pytube
-requests
-rstr
+python-youtube==0.8.2
+pytube==12.0.0
+requests==2.26.0
+rstr==3.0.0
